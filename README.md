@@ -1,4 +1,5 @@
 # CS-523-Computer-Vision
+This repository contains projects from the CS 523 - Computer Vision couse in Ozyegin University.
 ## Project 1 : JPEG Compression
 JPEG compression to four given grayscale images and observation on the changes in
 frequency domain.
